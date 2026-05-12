@@ -1,3 +1,12 @@
+## steps of changes
+- Make Changes
+- add files
+`git add .`
+- Push code 
+`git push`
+
+
+
 ## To change the master to main branch 
 - Changing the repo
 `git branch -M main`
@@ -19,3 +28,8 @@
 `git push -u origin feature-branch`
 
 `git push`
+
+
+- to up-to-date local branch with the Remote Branch
+
+`git pull`
