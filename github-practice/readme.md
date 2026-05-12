@@ -12,7 +12,9 @@
 
 `git push --set-upstream origin branchname`
 
-- Local Branch to set upstream
+- Local Branch to set upstream 
+
+- code push directly when git push
 
 `git push -u origin feature-branch`
 
