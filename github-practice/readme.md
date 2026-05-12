@@ -11,3 +11,9 @@
 - to publish your branch 
 
 `git push --set-upstream origin branchname`
+
+- Local Branch to set upstream
+
+`git push -u origin feature-branch`
+
+`git push`
