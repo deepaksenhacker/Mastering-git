@@ -8,5 +8,6 @@
 - push Your all code on Git Repo
 `git push -u origin main`
 
+- to publish your branch 
 
-`Feature Added`
+`git push --set-upstream origin branchname`
